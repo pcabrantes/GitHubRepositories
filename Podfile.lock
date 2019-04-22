@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.7.3)
+  - iOSSnapshotTestCase (6.0.0):
+    - iOSSnapshotTestCase/SwiftSupport (= 6.0.0)
+  - iOSSnapshotTestCase/Core (6.0.0)
+  - iOSSnapshotTestCase/SwiftSupport (6.0.0):
+    - iOSSnapshotTestCase/Core
+  - KIF (3.7.4):
+    - KIF/Core (= 3.7.4)
+  - KIF/Core (3.7.4)
+  - Nimble (7.3.3)
+  - Quick (1.3.4)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.0)
+  - iOSSnapshotTestCase
+  - KIF
+  - Nimble
+  - Quick
+  - SDWebImage
+  - SwiftyJSON (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - iOSSnapshotTestCase
+    - KIF
+    - Nimble
+    - Quick
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  iOSSnapshotTestCase: f592adfdedffe6113a55528ce698ccc457a550f1
+  KIF: f3d01c109ee9d1cfe6b0f2bb2aa278e807e971e2
+  Nimble: 3b434b1e7d0a92603a13550a82880b0d952f518e
+  Quick: f4f7f063c524394c73ed93ac70983c609805d481
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: ebff06b9ca9e959ce7f38fe2b6d90ec654a5350f
+
+COCOAPODS: 1.5.3
